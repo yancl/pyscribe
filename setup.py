@@ -22,7 +22,7 @@ setup(
         license='MIT License',
         zip_safe=False,
         dependency_links = [
-            "http://pypi.zhw.com:9000/packages/pyfb303-0.1.tar.gz",
+            "http://pypi.zhw.com:9000/packages/pyfb303-0.10.tar.gz",
         ],
         install_requires=[
             'pyfb303'

@@ -8,7 +8,7 @@ if sys.argv[-1] == 'publish':
     sys.exit()
 
 setup(
-        name = "pyscribe",
+        name = "scribe",
         version = "0.10",
         description="python scribe client",
         long_description=open("README.md").read(),
